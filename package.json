@@ -1,0 +1,25 @@
+{
+  "name": "indexedb",
+  "version": "1.0.0",
+  "description": "IndexedDB example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tetsumote/indexedDB.git"
+  },
+  "keywords": [
+    "indexedDB"
+  ],
+  "author": "Paul Grajewski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tetsumote/indexedDB/issues"
+  },
+  "homepage": "https://github.com/Tetsumote/indexedDB#readme",
+  "devDependencies": {
+    "live-server": "^1.2.0"
+  }
+}
